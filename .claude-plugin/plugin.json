@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "ovnfs",
+  "version": "1.0.0",
+  "description": "Worktrees as ovnfs copy-on-write checkouts: EnterWorktree, subagent isolation and --worktree open an ovnfs checkout; Claude reviews with ovnfs diff and merges with ovnfs apply.",
+  "author": { "name": "x264.webrip" },
+  "homepage": "https://github.com/VX1D/claude-code-ovnfs",
+  "license": "MIT",
+  "skills": ["./skills/"]
+}

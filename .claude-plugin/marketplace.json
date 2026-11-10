@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-ovnfs",
+  "description": "ovnfs copy-on-write checkouts as Claude Code worktrees.",
+  "owner": {
+    "name": "x264.webrip"
+  },
+  "plugins": [
+    {
+      "name": "ovnfs",
+      "source": "./",
+      "description": "Worktrees as ovnfs copy-on-write checkouts."
+    }
+  ]
+}
